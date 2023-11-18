@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "data": {
+        "enabled": true,
+        "pve_divisor": "1000000",
+        "pvp_divisor": 1
+    }
+}

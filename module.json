@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": true,
+    "disabled": false,
+    "name": "short-damage-numbers",
+    "author": "Leyki",
+    "version": 1.1,
+    "description": "Divides damage dealt by a value of choice to free up some screen space. This is active only past level 64.",
+    "options": {
+        "cliName": "smol dmg",
+        "guiName": "smol dmg",
+        "settingsVersion": 2,
+        "settingsFile": "settings.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/Leyki/short-dmg-numbers/master/"]
+}

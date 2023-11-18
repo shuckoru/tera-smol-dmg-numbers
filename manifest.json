@@ -1,0 +1,14 @@
+{
+	"files": {
+		"index.js": "bc986d2c15cbfa0c0b0b760ecfd86af6c77257f3ef3472c3f665a35d1f8645c9",
+		"README.md": "eab6b4d2d9a67bc40a5b3a0b04ded86a41878d6caddc3e0e440e65f77dae9a7d",
+		"settings_migrator.js": "dc6b929a4f77d8bbcfaf6ae9141fc2f8d14ef677cfd550bf55a9c44894db2ee9",
+		"module.json": "86afbab18494ac2fe33c68d900fb0cf8da3bfbfd9fa467d99487f9367a9cc7d8",
+		"README.html": "1ed7f859236ab24c35a9fe1641d0160862b53336c5c1d5e3f80188aca6f35012"
+	},
+	"defs": {
+		"S_EACH_SKILL_RESULT": 15,
+		"S_SPAWN_USER": 15,
+		"S_DESPAWN_USER": 3
+	}
+}
